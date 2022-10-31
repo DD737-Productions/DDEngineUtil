@@ -1,0 +1,5 @@
+Package: ddengine
+Version: 1.0
+Architecture: amd64
+Maintainer: DD737-Productions
+Description: A program to develop DDEngine projects

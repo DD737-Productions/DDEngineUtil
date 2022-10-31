@@ -1,0 +1,7 @@
+#ifndef HARD_DEFINITIONS_HPP
+
+#define HARD_DEFINITIONS_HPP
+
+
+
+#endif // !HARD_DEFINITIONS_HPP
